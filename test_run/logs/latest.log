@@ -1,0 +1,36 @@
+[11:41:07] [Client thread/INFO]: Setting user: Player234
+[11:41:07] [Client thread/INFO]: (Session ID is token:0:Player234)
+[11:41:12] [Client thread/INFO]: LWJGL Version: 2.9.4
+[11:41:13] [Client thread/INFO]: Reloading ResourceManager: Default
+[11:41:14] [Client thread/ERROR]: Couldn't initialize twitch stream
+[11:41:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:41:14] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[11:41:14] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:41:16] [Thread-7/INFO]: OpenAL initialized.
+[11:41:16] [Sound Library Loader/INFO]: Sound engine started
+[11:41:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:mcpatcher/ctm/default/empty.png, java.io.FileNotFoundException
+[11:41:25] [Client thread/INFO]: Created: 512x512 textures-atlas
+[11:42:01] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[11:42:01] [Server thread/INFO]: Generating keypair
+[11:42:02] [Server thread/INFO]: Preparing start region for level 0
+[11:42:03] [Server thread/INFO]: Preparing spawn area: 44%
+[11:42:04] [Server thread/INFO]: Preparing spawn area: 85%
+[11:42:04] [Server thread/INFO]: Changing view distance to 12, from 10
+[11:42:05] [Server thread/INFO]: Player234[local:E:0b212613] logged in with entity id 493 at (590.6161222814369, 70.0, 138.54450781646253)
+[11:42:05] [Server thread/INFO]: Player234 joined the game
+[11:42:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2691ms behind, skipping 53 tick(s)
+[11:42:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2572ms behind, skipping 51 tick(s)
+[11:42:35] [Server thread/INFO]: Saving and pausing game...
+[11:42:35] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[11:42:36] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[11:42:36] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[11:42:47] [Server thread/INFO]: Changing view distance to 8, from 12
+[11:43:39] [Client thread/INFO]: Stopping!
+[11:43:39] [Client thread/INFO]: SoundSystem shutting down...
+[11:43:40] [Server thread/INFO]: Stopping server
+[11:43:40] [Server thread/INFO]: Saving players
+[11:43:40] [Server thread/INFO]: Saving worlds
+[11:43:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Overworld
+[11:43:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/Nether
+[11:43:40] [Server thread/INFO]: Saving chunks for level 'mcpworld'/The End
+[11:43:40] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

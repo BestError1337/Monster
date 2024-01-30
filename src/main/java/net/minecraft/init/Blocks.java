@@ -234,15 +234,14 @@ public class Blocks
     public static final Block red_sandstone_stairs;
     public static final BlockSlab double_stone_slab2;
     public static final BlockSlab stone_slab2;
+    private static final String __OBFID = "CL_00000204";
 
     /**
      * Returns the Block in the blockRegistry with the specified name.
-     *  
-     * @param blockName The block's name to register
      */
-    private static Block getRegisteredBlock(String blockName)
+    private static Block getRegisteredBlock(String p_180383_0_)
     {
-        return (Block)Block.blockRegistry.getObject(new ResourceLocation(blockName));
+        return (Block)Block.blockRegistry.getObject(new ResourceLocation(p_180383_0_));
     }
 
     static
